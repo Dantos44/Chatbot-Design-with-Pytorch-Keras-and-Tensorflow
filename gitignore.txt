@@ -1,0 +1,2 @@
+C:\Users\Daniel Sofola\GoMyCode Data Science Bootcamp\ChatBot.Ds\.conda\Lib
+C:\Users\Daniel Sofola\GoMyCode Data Science Bootcamp\ChatBot.Ds\.conda\Library
